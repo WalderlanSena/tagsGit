@@ -69,7 +69,7 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3514" />
+     inkscape:current-layer="g3543" />
   <linearGradient
      id="b"
      x2="0"
@@ -109,45 +109,48 @@
          id="g3514">
         <g
            id="g3543">
-          <rect
-             style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect3481-3"
-             width="56.650436"
-             height="19.668875"
-             x="42.489651"
-             y="0.085263722"
-             ry="2.8683774" />
-          <rect
-             style="opacity:1;fill:url(#linearGradient3504);fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect3481"
-             width="44.82864"
-             height="19.668875"
-             x="0.1639061"
-             y="0.085263722"
-             ry="2.8683774" />
-          <text
-             style="fill:#010101;fill-opacity:0.3"
-             id="text3459"
-             y="15"
-             x="23.5">MVS</text>
-          <text
-             id="text3461"
-             y="14"
-             x="23.5">MVS</text>
-          <text
-             style="fill:#010101;fill-opacity:0.3"
-             id="text3463"
-             y="15"
-             x="71">Security</text>
-          <text
-             id="text3465"
-             y="14"
-             x="71"
-             style="fill:#1a1a1a;">
-            <tspan
-               id="tspan3541"
-               style="fill:#ffffff">Security</tspan>
-          </text>
+          <g
+             id="g3552">
+            <rect
+               ry="2.8683774"
+               y="0.085263722"
+               x="42.489651"
+               height="19.668875"
+               width="56.650436"
+               id="rect3481-3"
+               style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               ry="2.8683774"
+               y="0.085263722"
+               x="0.1639061"
+               height="19.668875"
+               width="44.82864"
+               id="rect3481"
+               style="opacity:1;fill:url(#linearGradient3504);fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <text
+               x="23.5"
+               y="15"
+               id="text3459"
+               style="fill:#010101;fill-opacity:0.3">Mvs</text>
+            <text
+               x="23.5"
+               y="14"
+               id="text3461">Mvs</text>
+            <text
+               x="71"
+               y="15"
+               id="text3463"
+               style="fill:#010101;fill-opacity:0.3">Security</text>
+            <text
+               style="fill:#1a1a1a;"
+               x="71"
+               y="14"
+               id="text3465">
+              <tspan
+                 style="fill:#ffffff"
+                 id="tspan3541">Security</tspan>
+            </text>
+          </g>
         </g>
       </g>
     </g>
