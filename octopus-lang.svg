@@ -39,13 +39,13 @@
      inkscape:window-height="664"
      id="namedview3467"
      showgrid="false"
-     inkscape:zoom="6.1010102"
-     inkscape:cx="72.147669"
-     inkscape:cy="-16.213286"
+     inkscape:zoom="3.0505051"
+     inkscape:cx="-27.33346"
+     inkscape:cy="43.113343"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3347" />
+     inkscape:current-layer="g3477" />
   <linearGradient
      id="b"
      x2="0"
@@ -109,21 +109,25 @@
         </g>
         <g
            id="g32"
-           transform="matrix(0.64205476,0,0,0.64205476,8.4924606,2.4281541)">
-          <text
-             style="line-height:0%;fill:#010101;fill-opacity:0.3"
-             id="text3459"
-             y="15"
-             x="23.5">language</text>
-          <text
-             style="line-height:0%"
-             id="text3461"
-             y="14.655629"
-             x="23.5">language</text>
+           transform="matrix(0.68321117,0,0,0.68321117,7.5160007,1.9427906)">
+          <g
+             id="g37"
+             transform="matrix(1.1236942,0,0,1.1236942,-2.9347179,-1.4587441)">
+            <text
+               x="23.5"
+               y="15"
+               id="text3459"
+               style="line-height:0%;fill:#010101;fill-opacity:0.3">language</text>
+            <text
+               x="23.5"
+               y="14.655629"
+               id="text3461"
+               style="line-height:0%">language</text>
+          </g>
         </g>
         <g
            id="g36"
-           transform="matrix(0.67528245,0,0,0.67528245,22.998815,2.0436691)">
+           transform="matrix(0.86070678,0,0,0.86070678,9.8277114,-0.14104247)">
           <text
              style="line-height:0%;fill:#010101;fill-opacity:0.3"
              id="text3463"
